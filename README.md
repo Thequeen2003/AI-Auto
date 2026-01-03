@@ -46,3 +46,9 @@ A minimalist, high-performance Production Operating System designed for supply c
 
 ## License
 Proprietary.
+
+loom link:
+https://www.loom.com/share/9b18c9bf3bcb496fa456f4a160e9adfc
+loom link 2:
+https://www.loom.com/share/bf1f72f9fbbc444f9783210a04c02199
+
